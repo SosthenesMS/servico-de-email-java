@@ -12,20 +12,20 @@
 #### implementação padrão do JavaMail API.
 ```
     <dependency>
-			<groupId>javax.mail</groupId>
-			<artifactId>javax.mail-api</artifactId>
-			<version>1.6.2</version>
-		</dependency>
+		<groupId>javax.mail</groupId>
+		<artifactId>javax.mail-api</artifactId>
+		<version>1.6.2</version>
+	</dependency>
 
 ```
 
 #### implementação específica da Sun (agora Oracle) do JavaMail API.
 ```
     <dependency>
-			<groupId>com.sun.mail</groupId>
-			<artifactId>javax.mail</artifactId>
-			<version>1.6.2</version>
-		</dependency>
+		<groupId>com.sun.mail</groupId>
+		<artifactId>javax.mail</artifactId>
+		<version>1.6.2</version>
+	</dependency>
 
 ```
 
